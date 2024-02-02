@@ -49,35 +49,35 @@ function projetosDesign(){
 
     liImg1.style.display = liImg2.style.display = liImg3.style.display = liImg4.style.display = liImg5.style.display = liImg6.style.display = liImg7.style.display = liImg8.style.display = "flex";
 
-    imagem1.src = "../../assets/projetos/design/img_1.jpeg";
+    imagem1.src = "./assets/projetos/design/img_1.jpeg";
     imagem1.style.display = "block";
     imagem1.style.display = "100%";
     
-    imagem2.src = "../../assets/projetos/design/img_2.png";
+    imagem2.src = "./assets/projetos/design/img_2.png";
     imagem2.style.display = "block";
     imagem2.style.width = "100%";
     
-    imagem3.src = "../../assets/projetos/design/img_3.jpg";
+    imagem3.src = "./assets/projetos/design/img_3.jpg";
     imagem3.style.display = "block";
     imagem3.style.width = "100%";
     
-    imagem4.src = "../../assets/projetos/design/img_4.jpeg";
+    imagem4.src = "./assets/projetos/design/img_4.jpeg";
     imagem4.style.display = "block";
     imagem4.style.width = "100%"
     
-    imagem5.src = "../../assets/projetos/design/img_5.png";
+    imagem5.src = "./assets/projetos/design/img_5.png";
     imagem5.style.display = "block";
     imagem5.style.width = "100%";
     
-    imagem6.src = "../../assets/projetos/design/img_6.jpg";
+    imagem6.src = "./assets/projetos/design/img_6.jpg";
     imagem6.style.display = "block";
     imagem6.style.width = "100%";
     
-    imagem7.src = "../../assets/projetos/design/img_7.jpg";
+    imagem7.src = "./assets/projetos/design/img_7.jpg";
     imagem7.style.display = "block";
     imagem7.style.width = "100%";
     
-    imagem8.src = "../../assets/projetos/design/img_8.jpg";
+    imagem8.src = "./assets/projetos/design/img_8.jpg";
     imagem8.style.display = "block";
     imagem8.style.width = "100%";
 }
@@ -102,35 +102,35 @@ function projetosEducacao(){
 
     liImg1.style.display = liImg2.style.display = liImg3.style.display = liImg4.style.display = liImg5.style.display = liImg6.style.display = liImg7.style.display = liImg8.style.display = "flex";
 
-    imagem1.src = "../../assets/projetos/educação/img_1.jpeg";
+    imagem1.src = "./assets/projetos/educação/img_1.jpeg";
     imagem1.style.display = "block";
     imagem1.style.width = "100%";
     
-    imagem2.src = "../../assets/projetos/educação/img_2.jpeg";
+    imagem2.src = "./assets/projetos/educação/img_2.jpeg";
     imagem2.style.display = "block";
     imagem2.style.width = "100%";
     
-    imagem3.src = "../../assets/projetos/educação/img_3.jpeg";
+    imagem3.src = "./assets/projetos/educação/img_3.jpeg";
     imagem3.style.display = "block";
     imagem3.style.width = "100%";
     
-    imagem4.src = "../../assets/projetos/educação/img_4.jpeg";
+    imagem4.src = "./assets/projetos/educação/img_4.jpeg";
     imagem4.style.display = "block";
     imagem4.style.width = "100%";
     
-    imagem5.src = "../../assets/projetos/educação/img_5.jpeg";
+    imagem5.src = "./assets/projetos/educação/img_5.jpeg";
     imagem5.style.display = "block";
     imagem5.style.width = "100%";
     
-    imagem6.src = "../../assets/projetos/educação/img_6.jpeg";
+    imagem6.src = "./assets/projetos/educação/img_6.jpeg";
     imagem6.style.display = "block";
     imagem6.style.width = "100%";
     
-    imagem7.src = "../../assets/projetos/educação/img_7.jpeg";
+    imagem7.src = "./assets/projetos/educação/img_7.jpeg";
     imagem7.style.display = "block";
     imagem7.style.width = "100%";
     
-    imagem8.src = "../../assets/projetos/educação/img_8.jpeg";
+    imagem8.src = "./assets/projetos/educação/img_8.jpeg";
     imagem8.style.display = "block";
     imagem8.style.width = "100%";
 }
@@ -154,35 +154,35 @@ function projetosUiUx(){
 
     liImg1.style.display = liImg2.style.display = liImg3.style.display = liImg4.style.display = liImg5.style.display = liImg6.style.display = liImg7.style.display = liImg8.style.display = "flex";
 
-    imagem1.src = "../../assets/projetos/UI-UX/img_1.png";
+    imagem1.src = "./assets/projetos/UI-UX/img_1.png";
     imagem1.style.display = "block";
     imagem1.style.width = "100%";
     
-    imagem2.src = "../../assets/projetos/UI-UX/img_2.png";
+    imagem2.src = "./assets/projetos/UI-UX/img_2.png";
     imagem2.style.display = "block";
     imagem2.style.width = "100%";
     
-    imagem3.src = "../../assets/projetos/UI-UX/img_3.png";
+    imagem3.src = "./assets/projetos/UI-UX/img_3.png";
     imagem3.style.display = "block";
     imagem3.style.width = "100%";
     
-    imagem4.src = "../../assets/projetos/UI-UX/img_4.png";
+    imagem4.src = "./assets/projetos/UI-UX/img_4.png";
     imagem4.style.display = "block";
     imagem4.style.width = "100%";
     
-    imagem5.src = "../../assets/projetos/UI-UX/img_5.png";
+    imagem5.src = "./assets/projetos/UI-UX/img_5.png";
     imagem5.style.display = "block";
     imagem5.style.width = "100%";
     
-    imagem6.src = "../../assets/projetos/UI-UX/img_6.png";
+    imagem6.src = "./assets/projetos/UI-UX/img_6.png";
     imagem6.style.display = "block";
     imagem6.style.width = "100%";
     
-    imagem7.src = "../../assets/projetos/UI-UX/img_7.png";
+    imagem7.src = "./assets/projetos/UI-UX/img_7.png";
     imagem7.style.display = "block";
     imagem7.style.width = "100%";
     
-    imagem8.src = "../../assets/projetos/UI-UX/img_8.png";
+    imagem8.src = "./assets/projetos/UI-UX/img_8.png";
     imagem8.style.display = "block";
     imagem8.style.width = "100%";
 }
